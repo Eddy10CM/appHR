@@ -1,0 +1,10 @@
+[25-Jul-2016 16:10:56 America/Chicago] Action "auth/imagePath" does not exist.
+[25-Jul-2016 16:10:56 America/Chicago] PHP Fatal error:  Uncaught exception 'sfStopException' in /var/www/html/orangehrm/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /var/www/html/orangehrm/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /var/www/html/orangehrm/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /var/www/html/orangehrm/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /var/www/html/orangehrm/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /var/www/html/orangehrm/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /var/www/html/orangehrm/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'error404')
+#6 /var/www/html/orangehrm/symfony in /var/www/html/orangehrm/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96

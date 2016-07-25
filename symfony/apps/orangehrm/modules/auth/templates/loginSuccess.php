@@ -28,6 +28,7 @@ $imagePath = theme_path("images/login");
         font-family: Arial, Helvetica, sans-serif;
         font-size: 11px;
         color: #666666;
+        border-color: #2b2922;
     }
 
     #divLogin {
@@ -41,24 +42,40 @@ $imagePath = theme_path("images/login");
 
     #divUsername {
         padding-top: 153px;
-        padding-left: 50%;
+        text-align: center;
     }
 
     #divPassword {
         padding-top: 35px;
-        padding-left: 50%;
+        text-align: center;
     }
 
     #txtUsername {
         width: 240px;
-        border: 0px;
+        border: 1px solid black;
         background-color: transparent;
+        -webkit-border-radius: 2px;
+        -moz-border-radius: 2px;
+        border-radius: 2px;
+        background-image: url(<?php echo "{$imagePath}/user.png"?>);
+        background-position: 3px center;
+        background-repeat: no-repeat;
+        padding:0 0 0 20px;
+        height: 20px;
     }
 
     #txtPassword {
         width: 240px;
-        border: 0px;
+        border: 1px solid black;
         background-color: transparent;
+        -webkit-border-radius: 2px;
+        -moz-border-radius: 2px;
+        border-radius: 2px;
+        background-image: url(<?php echo "{$imagePath}/pass.png"?>);
+        background-position: 3px center;
+        background-repeat: no-repeat;
+        padding:0 0 0 20px;
+        height: 20px;
     }
 
     #txtUsername, #txtPassword {
@@ -81,13 +98,16 @@ $imagePath = theme_path("images/login");
 
     #divLoginButton {
         padding-top: 2px;
-        padding-left: 49.3%;
-        float: left;
-        width: 350px;
+        /* padding-left: 50%; */
+        text-align: center;
+        float: none;
+        /* width: 350px; */
     }
 
     #btnLogin {
-        background: url(<?php echo "{$imagePath}/Login_button.png"; ?>) no-repeat;
+        /*background: url(<?php echo "{$imagePath}/Login_button.png"; ?>) no-repeat;*/
+        background-color: #f6921e;
+        border-radius: 10px;
         cursor:pointer;
         width: 94px;
         height: 26px;
@@ -136,9 +156,9 @@ $imagePath = theme_path("images/login");
     
 </style>
 
-<div id="divLogin">
+<!--<div id="divLogin">-->
     <div id="divLogo">
-        
+
         <img src="<?php echo "{$imagePath}/logo.png"; ?>" />
     </div>
 
@@ -148,15 +168,17 @@ $imagePath = theme_path("images/login");
         <?php 
             echo $form->renderHiddenFields(); // rendering csrf_token 
         ?>
-        <div id="logInPanelHeading"><?php echo __(''); ?></div>
+        <!--<div id="logInPanelHeading"><?php echo __(''); ?></div>-->
 
         <div id="divUsername" class="textInputContainer">
-            <?php echo $form['Username']->render(); ?>
-          <span class="form-hint" ><?php echo __('Username'); ?></span> 
+            <!--<?php echo $form['Username']->render(); ?>-->
+            <input name="txtUsername" id="txtUsername" type="text" placeholder="Username" autocomplete="off">
+            <!--<span class="form-hint" ><?php echo __('Username'); ?></span> Aqui esta el placeholder -->
         </div>
         <div id="divPassword" class="textInputContainer">
-            <?php echo $form['Password']->render(); ?>
-         <span class="form-hint" ><?php echo __('Password'); ?></span>
+            <!--<?php echo $form['Password']->render(); ?>-->
+            <input type="password" name="txtPassword" id="txtPassword" placeholder="Password">
+         <!--<span class="form-hint" ><?php echo __('Password'); ?></span>-->
         </div>
         <div id="divLoginHelpLink"><?php
             include_component('core', 'ohrmPluginPannel', array(
@@ -165,13 +187,16 @@ $imagePath = theme_path("images/login");
             ?></div>
         <div id="divLoginButton">
             <input type="submit" name="Submit" class="button" id="btnLogin" value="<?php echo __('LOGIN'); ?>" />
+        </div>
+        <div>
             <?php if (!empty($message)) : ?>
-            <span id="spanMessage"><?php echo __($message); ?></span>
+                <br>
+                <span id="spanMessage"><?php echo __($message); ?></span>
             <?php endif; ?>
         </div>
     </form>
 
-</div>
+<!--</div>-->
 
 <!--<div style="text-align: center">
     <?php include_component('core', 'ohrmPluginPannel', array(
