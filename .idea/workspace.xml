@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61eaffb5-424c-49ae-bdc9-631e3109a882" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/symfony/cache/orangehrm/prod/config/modules_mainMenu_config_module.yml.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/apps/orangehrm/modules/auth/templates/loginSuccess.php" afterPath="$PROJECT_DIR$/symfony/apps/orangehrm/modules/auth/templates/loginSuccess.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.es_AR.xml" afterPath="$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.es_AR.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/apps/orangehrm/templates/freshorange.php" afterPath="$PROJECT_DIR$/symfony/apps/orangehrm/templates/freshorange.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/log/orangehrm.log" afterPath="$PROJECT_DIR$/symfony/log/orangehrm.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/lib/form/LicenseForm.php" afterPath="$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/lib/form/LicenseForm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeLicenseForm.php" afterPath="$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeLicenseForm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/actions/viewQualificationsAction.class.php" afterPath="$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/actions/viewQualificationsAction.class.php" />
     </list>
     <ignored path="orangehrm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,108 +30,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="layout.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/templates/layout.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AssetHelper.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/lib/vendor/symfony/lib/helper/AssetHelper.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5094">
-              <caret line="290" column="78" selection-start-line="290" selection-start-column="78" selection-end-line="290" selection-end-column="78" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="loginSuccess.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="loginSuccess.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/modules/auth/templates/loginSuccess.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1872">
+            <state relative-caret-position="1314">
               <caret line="73" column="59" selection-start-line="73" selection-start-column="59" selection-end-line="73" selection-end-column="59" />
               <folding>
                 <marker date="1469482331014" expanded="true" signature="4740:4776" ph="..." />
                 <marker date="1469482331014" expanded="true" signature="4935:5033" ph="..." />
                 <marker date="1469482331014" expanded="true" signature="5295:5353" ph="..." />
-                <marker date="1469482331014" expanded="true" signature="5581:5851" ph="..." />
-                <marker date="1469482331014" expanded="true" signature="5631:5755" ph="{...}" />
-                <marker date="1469482331014" expanded="true" signature="5817:5851" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sfForm.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/lib/vendor/symfony/lib/form/sfForm.class.php">
+      <file leaf-file-name="viewQualificationsAction.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/actions/viewQualificationsAction.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-90">
-              <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+            <state relative-caret-position="1728">
+              <caret line="96" column="53" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sfFormField.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/lib/vendor/symfony/lib/form/sfFormField.class.php">
+      <file leaf-file-name="EmployeeLicenseForm.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeLicenseForm.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1260">
-              <caret line="122" column="73" selection-start-line="122" selection-start-column="62" selection-end-line="122" selection-end-column="73" />
+            <state relative-caret-position="1962">
+              <caret line="109" column="44" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sfFormFieldSchema.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/lib/vendor/symfony/lib/form/sfFormFieldSchema.class.php">
+      <file leaf-file-name="LicenseForm.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/lib/form/LicenseForm.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+            <state relative-caret-position="203">
+              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="validateCredentialsAction.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/modules/auth/actions/validateCredentialsAction.class.php">
+      <file leaf-file-name="messages.es_AR.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.es_AR.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="62928">
+              <caret line="3496" column="21" selection-start-line="3496" selection-start-column="16" selection-end-line="3496" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sfController.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/lib/vendor/symfony/lib/controller/sfController.class.php">
+      <file leaf-file-name="freshorange.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/templates/freshorange.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sfWebController.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/lib/vendor/symfony/lib/controller/sfWebController.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sfFrontWebController.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/lib/vendor/symfony/lib/controller/sfFrontWebController.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="702">
+              <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -143,6 +104,12 @@
       <list>
         <option value="$PROJECT_DIR$/README.TXT" />
         <option value="$PROJECT_DIR$/symfony/apps/orangehrm/modules/auth/templates/loginSuccess.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/actions/viewQualificationsAction.class.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeLicenseForm.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/lib/form/LicenseForm.php" />
+        <option value="$PROJECT_DIR$/symfony/apps/orangehrm/templates/layout.php" />
+        <option value="$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.es_AR.xml" />
+        <option value="$PROJECT_DIR$/symfony/apps/orangehrm/templates/freshorange.php" />
       </list>
     </option>
   </component>
@@ -157,9 +124,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
     <option name="y" value="30" />
-    <option name="width" value="1366" />
-    <option name="height" value="738" />
+    <option name="width" value="1368" />
+    <option name="height" value="739" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -277,24 +245,6 @@
               <option name="myItemId" value="webres_55a775cf9fcff8.50052456" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
@@ -318,6 +268,28 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webres_55a775cf9fcff8.50052456" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="orangehrm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="orangehrm" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="apps" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -351,10 +323,6 @@
               <option name="myItemId" value="orangehrm" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -378,105 +346,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auth" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auth" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auth" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="actions" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -556,22 +426,23 @@
       <workItem from="1469047208524" duration="1345000" />
       <workItem from="1469114018864" duration="13324000" />
       <workItem from="1469459637615" duration="2694000" />
-      <workItem from="1469467429233" duration="10598000" />
+      <workItem from="1469467429233" duration="14663000" />
+      <workItem from="1469544973929" duration="5545000" />
+      <workItem from="1469559902654" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28105000" />
+    <option name="totallyTimeSpent" value="37728000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="30" width="1366" height="738" extended-state="0" />
+    <frame x="-1" y="30" width="1368" height="739" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2580645" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25768667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -582,6 +453,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45962733" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -602,15 +474,55 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.TXT">
+    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/modules/auth/templates/loginSuccess.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="70" column="10" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="10" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1469482331014" expanded="true" signature="4740:4776" ph="..." />
+            <marker date="1469482331014" expanded="true" signature="4935:5033" ph="..." />
+            <marker date="1469482331014" expanded="true" signature="5295:5353" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/actions/viewQualificationsAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="96" column="53" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/templates/layout.php">
+    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/modules/auth/templates/loginSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1314">
+          <caret line="73" column="59" selection-start-line="73" selection-start-column="59" selection-end-line="73" selection-end-column="59" />
+          <folding>
+            <marker date="1469482331014" expanded="true" signature="4740:4776" ph="..." />
+            <marker date="1469482331014" expanded="true" signature="4935:5033" ph="..." />
+            <marker date="1469482331014" expanded="true" signature="5295:5353" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/actions/viewQualificationsAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="96" column="53" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeLicenseForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1962">
+          <caret line="109" column="44" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/lib/form/LicenseForm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -618,11 +530,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.TXT">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="70" column="10" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/templates/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/symfony/lib/vendor/symfony/lib/helper/AssetHelper.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5220">
           <caret line="290" column="78" selection-start-line="290" selection-start-column="78" selection-end-line="290" selection-end-column="78" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -634,9 +559,6 @@
             <marker date="1469482331014" expanded="true" signature="4740:4776" ph="..." />
             <marker date="1469482331014" expanded="true" signature="4935:5033" ph="..." />
             <marker date="1469482331014" expanded="true" signature="5295:5353" ph="..." />
-            <marker date="1469482331014" expanded="true" signature="5581:5851" ph="..." />
-            <marker date="1469482331014" expanded="true" signature="5631:5755" ph="{...}" />
-            <marker date="1469482331014" expanded="true" signature="5817:5851" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -653,7 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
           <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,7 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,7 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -677,7 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -685,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -693,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -701,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -709,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5220">
           <caret line="290" column="78" selection-start-line="290" selection-start-column="78" selection-end-line="290" selection-end-column="78" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,23 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
           <caret line="70" column="10" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/templates/layout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/lib/vendor/symfony/lib/helper/AssetHelper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5094">
-          <caret line="290" column="78" selection-start-line="290" selection-start-column="78" selection-end-line="290" selection-end-column="78" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -825,7 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -833,7 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -841,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -849,7 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -857,7 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -873,22 +765,86 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1260">
           <caret line="122" column="73" selection-start-line="122" selection-start-column="62" selection-end-line="122" selection-end-column="73" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/config/view.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/lib/vendor/symfony/lib/helper/AssetHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="290" column="78" selection-start-line="290" selection-start-column="78" selection-end-line="290" selection-end-column="78" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/modules/auth/templates/loginSuccess.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1872">
+        <state relative-caret-position="1314">
           <caret line="73" column="59" selection-start-line="73" selection-start-column="59" selection-end-line="73" selection-end-column="59" />
           <folding>
             <marker date="1469482331014" expanded="true" signature="4740:4776" ph="..." />
             <marker date="1469482331014" expanded="true" signature="4935:5033" ph="..." />
             <marker date="1469482331014" expanded="true" signature="5295:5353" ph="..." />
-            <marker date="1469482331014" expanded="true" signature="5581:5851" ph="..." />
-            <marker date="1469482331014" expanded="true" signature="5631:5755" ph="{...}" />
-            <marker date="1469482331014" expanded="true" signature="5817:5851" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/actions/viewQualificationsAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="96" column="53" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/templates/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="41" column="45" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeLicenseForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1962">
+          <caret line="109" column="44" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/lib/form/LicenseForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.es_AR.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62928">
+          <caret line="3496" column="21" selection-start-line="3496" selection-start-column="16" selection-end-line="3496" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/templates/freshorange.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>

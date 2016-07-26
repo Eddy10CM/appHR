@@ -114,7 +114,7 @@ class EmployeeLicenseForm extends sfForm {
         foreach($licenseList as $license) {
             $list[$license->getId()] = $license->getName();
         }
-        
+
         // Clear already used license items
         foreach ($this->empLicenseList as $empLicense) {
             if (isset($list[$empLicense->licenseId])) {

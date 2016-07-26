@@ -54,9 +54,9 @@ class LicenseForm extends BaseForm {
 	}
     
     public function save() {
-        
+
         $id = $this->getValue('id');
-        
+
         if (empty($id)) {
             $license = new License();
             $message = array('messageType' => 'success', 'message' => __(TopLevelMessages::SAVE_SUCCESS));
@@ -64,12 +64,12 @@ class LicenseForm extends BaseForm {
             $license = $this->getLicenseService()->getLicenseById($id);
             $message = array('messageType' => 'success', 'message' => __(TopLevelMessages::UPDATE_SUCCESS));
         }
-        
+
         $license->setName($this->getValue('name'));
-        $this->getLicenseService()->saveLicense($license);        
-        
+        $this->getLicenseService()->saveLicense($license);
+
         return $message;
-        
+
     }
 
 }
