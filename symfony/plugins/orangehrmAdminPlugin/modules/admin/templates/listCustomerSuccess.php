@@ -12,26 +12,26 @@
 	            <option value="customer_id" <?php if($searchMode == 'customer_id'){ echo "selected";}?>><?php echo __("ID")?></option>
 	            <option value="name" <?php if($searchMode == 'name'){ echo "selected";}?>><?php echo __("Name")?></option>
 	        </select>
-	
+
 	        <label for="searchValue">Search For:</label>
 	        <input type="text" size="20" name="searchValue" id="searchValue" value="<?php echo $searchValue?>" />
-	        <input type="submit" class="plainbtn" 
+	        <input type="submit" class="plainbtn"
 	            value="<?php echo __("Search")?>" />
-	        <input type="reset" class="plainbtn" 
+	        <input type="reset" class="plainbtn"
 	             value="<?php echo __("Reset")?>" />
 	        <br class="clear"/>
 	    </div>
     </form>
       <div class="actionbar">
         <div class="actionbuttons">
-       
+
             <input type="button" class="plainbtn" id="buttonAdd"
                 value="<?php echo __("Add")?>" />
-                
-                 
+
+
              <input type="button" class="plainbtn" id="buttonRemove"
-                    value="<?php echo __("Delete")?>" />    
-        
+                    value="<?php echo __("Delete")?>" />
+
         </div>
         <div class="noresultsbar"></div>
         <div class="pagingbar"> </div>
@@ -44,25 +44,25 @@
 			<thead>
             <tr>
 				<td width="50">
-				
+
 					<input type="checkbox" class="checkbox" name="allCheck" value="" id="allCheck" />
-				
+
 				</td>
-				
+
 					<td scope="col">
 						 <?php echo $sorter->sortLink('customer_id', __('Customer Id'), '@customer_list', ESC_RAW); ?>
 					</td>
 					<td scope="col">
 						 <?php echo $sorter->sortLink('name', __('Customer Name'), '@customer_list', ESC_RAW); ?>
-						 
-					</td>  	  
-				
-					
+
+					</td>
+
+
             </tr>
     		</thead>
 
             <tbody>
-    		<?php 
+    		<?php
     		 $row = 0;
     		foreach($listCustomer as $customer){
     			$cssClass = ($row %2) ? 'even' : 'odd';
@@ -78,8 +78,8 @@
 		 			<td class="">
 		 				<a href="<?php echo url_for('admin/updateCustomer?id='.$customer->getCustomerId())?>"><?php echo $customer->getName()?></a>
 		 			</td>
-					
-		 			
+
+
 		 	</tr>
 			 	<?php }?>
             </tbody>
@@ -91,7 +91,7 @@
 
 $(document).ready(function() {
 
-	//When click add button 
+	//When click add button
 	$("#buttonAdd").click(function() {
 		location.href = "<?php echo url_for(public_path('../../symfony/web/index.php/admin/saveCustomer')) ?>";
 
@@ -104,26 +104,25 @@ $(document).ready(function() {
 		}else{
 			$('.innercheckbox').removeAttr('checked');
 		}
-		
+
 	});
 
 	//When click remove button
 	$("#buttonRemove").click(function() {
 		$("#mode").attr('value', 'delete');
 		$("#standardView").submit();
-	});	
+	});
 
-	//When click Save Button 
+	//When click Save Button
 	$("#buttonRemove").click(function() {
 		$("#mode").attr('value', 'save');
 		$("#standardView").submit();
-	});	
+	});
 
 
-	  	
+
 });
 
 
 </script>
 
-    

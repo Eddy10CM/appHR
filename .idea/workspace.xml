@@ -2,14 +2,228 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61eaffb5-424c-49ae-bdc9-631e3109a882" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/symfony/cache/orangehrm/prod/config/modules_mainMenu_config_module.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/font/Flaticon.eot" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/font/Flaticon.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/font/Flaticon.ttf" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/font/Flaticon.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/font/Flaticon.woff" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/font/Flaticon.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/license/license.pdf" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/license/license.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/avatar-1.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/avatar-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/avatar.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/avatar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/back.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/book.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/book.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/cancel.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/cancel.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/chat-1.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/chat-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/chat-2.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/chat-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/chat.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/chat.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/copy.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/copy.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/dislike.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/dislike.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/download-1.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/download-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/download.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/download.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/edit.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/edit.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/envelope.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/envelope.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/folder.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/folder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/garbage.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/garbage.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/glasses.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/glasses.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/hand.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/hand.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/headphones.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/headphones.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/heart.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/heart.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/house.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/house.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/like.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/like.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/link.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/link.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/logout.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/logout.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/magnifying-glass.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/magnifying-glass.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/monitor.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/monitor.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/musical-note.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/musical-note.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/next-1.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/next-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/next.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/next.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/padlock.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/padlock.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/paper-plane.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/paper-plane.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/phone-call.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/phone-call.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/photo-camera.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/photo-camera.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/pie-chart.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/pie-chart.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/piggy-bank.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/piggy-bank.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/placeholder.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/placeholder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/printer.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/printer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/reload.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/reload.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/settings-1.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/settings-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/settings.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/settings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/share.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/share.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/shopping-bag.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/shopping-bag.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/shopping-cart.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/shopping-cart.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/shuffle.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/shuffle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/speaker.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/speaker.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/star.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/star.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/tag.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/tag.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/upload-1.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/upload-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/upload.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/upload.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/vector.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/png/vector.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/avatar-1.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/avatar-1.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/avatar.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/avatar.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/back.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/back.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/book.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/book.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/cancel.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/cancel.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/chat-1.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/chat-1.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/chat-2.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/chat-2.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/chat.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/chat.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/copy.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/copy.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/dislike.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/dislike.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/download-1.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/download-1.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/download.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/download.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/edit.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/edit.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/envelope.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/envelope.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/folder.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/folder.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/garbage.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/garbage.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/glasses.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/glasses.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/hand.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/hand.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/headphones.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/headphones.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/heart.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/heart.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/house.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/house.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/like.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/like.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/link.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/link.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/logout.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/logout.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/magnifying-glass.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/magnifying-glass.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/monitor.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/monitor.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/musical-note.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/musical-note.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/next-1.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/next-1.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/next.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/next.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/padlock.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/padlock.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/paper-plane.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/paper-plane.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/phone-call.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/phone-call.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/photo-camera.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/photo-camera.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/pie-chart.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/pie-chart.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/piggy-bank.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/piggy-bank.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/placeholder.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/placeholder.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/printer.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/printer.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/reload.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/reload.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/settings-1.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/settings-1.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/settings.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/settings.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/share.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/share.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/shopping-bag.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/shopping-bag.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/shopping-cart.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/shopping-cart.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/shuffle.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/shuffle.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/speaker.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/speaker.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/star.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/star.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/tag.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/tag.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/upload-1.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/upload-1.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/upload.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/upload.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/vector.psd" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/psd/vector.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/login/pass.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/login/pass.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/login/user.png" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/login/user.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.es_AR.xml" afterPath="$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.es_AR.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/apps/orangehrm/templates/freshorange.php" afterPath="$PROJECT_DIR$/symfony/apps/orangehrm/templates/freshorange.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/log/orangehrm.log" afterPath="$PROJECT_DIR$/symfony/log/orangehrm.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/lib/form/LicenseForm.php" afterPath="$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/lib/form/LicenseForm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeLicenseForm.php" afterPath="$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeLicenseForm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/actions/viewQualificationsAction.class.php" afterPath="$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/actions/viewQualificationsAction.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.es_ES.xml" afterPath="$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.es_ES.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/cache/orangehrm/prod/config/modules_default_config_filters.yml.php" afterPath="$PROJECT_DIR$/symfony/cache/orangehrm/prod/config/modules_default_config_filters.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/cache/orangehrm/prod/config/modules_default_config_module.yml.php" afterPath="$PROJECT_DIR$/symfony/cache/orangehrm/prod/config/modules_default_config_module.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/cache/orangehrm/prod/config/modules_default_config_security.yml.php" afterPath="$PROJECT_DIR$/symfony/cache/orangehrm/prod/config/modules_default_config_security.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/cache/orangehrm/prod/config/modules_mainMenu_config_module.yml.php" afterPath="$PROJECT_DIR$/symfony/cache/orangehrm/prod/config/modules_mainMenu_config_module.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/cache/orangehrm/prod/i18n/141f7b89331917af74c740362b466f4amessages.es_ES.xml/es_ES.cache" afterPath="$PROJECT_DIR$/symfony/cache/orangehrm/prod/i18n/141f7b89331917af74c740362b466f4amessages.es_ES.xml/es_ES.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/jobCategorySuccess.php" afterPath="$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/jobCategorySuccess.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/listCustomerSuccess.php" afterPath="$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/listCustomerSuccess.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/templates/viewQualificationsSuccess.php" afterPath="$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/templates/viewQualificationsSuccess.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/avatar-1.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/avatar-1.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/avatar.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/avatar.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/back.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/back.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/book.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/book.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/cancel.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/cancel.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/chat-1.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/chat-1.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/chat-2.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/chat-2.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/chat.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/chat.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/copy.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/copy.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/dislike.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/dislike.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/download-1.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/download-1.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/download.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/download.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/edit.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/edit.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/envelope.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/envelope.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/folder.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/folder.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/garbage.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/garbage.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/glasses.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/glasses.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/hand.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/hand.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/headphones.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/headphones.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/heart.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/heart.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/house.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/house.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/like.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/like.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/link.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/link.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/logout.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/logout.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/magnifying-glass.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/magnifying-glass.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/monitor.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/monitor.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/musical-note.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/musical-note.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/next-1.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/next-1.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/next.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/next.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/padlock.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/padlock.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/paper-plane.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/paper-plane.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/phone-call.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/phone-call.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/photo-camera.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/photo-camera.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/pie-chart.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/pie-chart.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/piggy-bank.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/piggy-bank.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/placeholder.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/placeholder.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/printer.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/printer.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/reload.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/reload.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/settings-1.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/settings-1.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/settings.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/settings.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/share.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/share.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/shopping-bag.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/shopping-bag.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/shopping-cart.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/shopping-cart.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/shuffle.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/shuffle.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/speaker.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/speaker.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/star.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/star.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/tag.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/tag.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/upload-1.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/upload-1.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/upload.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/upload.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/vector.eps" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/eps/vector.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/font/Flaticon.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/font/Flaticon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/font/_flaticon.scss" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/font/_flaticon.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/font/flaticon.css" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/font/flaticon.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/font/flaticon.html" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/font/flaticon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/avatar-1.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/avatar-1.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/avatar.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/avatar.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/back.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/back.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/book.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/book.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/cancel.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/cancel.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/chat-1.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/chat-1.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/chat-2.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/chat-2.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/chat.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/chat.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/copy.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/copy.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/dislike.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/dislike.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/download-1.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/download-1.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/download.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/download.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/edit.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/edit.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/envelope.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/envelope.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/folder.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/folder.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/garbage.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/garbage.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/glasses.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/glasses.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/hand.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/hand.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/headphones.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/headphones.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/heart.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/heart.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/house.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/house.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/like.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/like.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/link.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/link.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/logout.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/logout.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/magnifying-glass.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/magnifying-glass.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/monitor.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/monitor.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/musical-note.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/musical-note.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/next-1.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/next-1.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/next.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/next.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/padlock.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/padlock.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/paper-plane.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/paper-plane.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/phone-call.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/phone-call.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/photo-camera.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/photo-camera.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/pie-chart.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/pie-chart.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/piggy-bank.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/piggy-bank.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/placeholder.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/placeholder.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/printer.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/printer.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/reload.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/reload.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/settings-1.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/settings-1.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/settings.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/settings.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/share.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/share.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/shopping-bag.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/shopping-bag.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/shopping-cart.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/shopping-cart.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/shuffle.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/shuffle.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/speaker.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/speaker.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/star.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/star.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/tag.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/tag.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/upload-1.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/upload-1.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/upload.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/upload.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/vector.svg" afterPath="$PROJECT_DIR$/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/images/icons/svg/vector.svg" />
     </list>
     <ignored path="orangehrm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,65 +244,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="loginSuccess.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/modules/auth/templates/loginSuccess.php">
+      <file leaf-file-name="messages.es_ES.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.es_ES.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1314">
-              <caret line="73" column="59" selection-start-line="73" selection-start-column="59" selection-end-line="73" selection-end-column="59" />
-              <folding>
-                <marker date="1469482331014" expanded="true" signature="4740:4776" ph="..." />
-                <marker date="1469482331014" expanded="true" signature="4935:5033" ph="..." />
-                <marker date="1469482331014" expanded="true" signature="5295:5353" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="viewQualificationsAction.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/actions/viewQualificationsAction.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1728">
-              <caret line="96" column="53" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="53" />
+            <state relative-caret-position="80496">
+              <caret line="4472" column="27" selection-start-line="4472" selection-start-column="16" selection-end-line="4472" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmployeeLicenseForm.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeLicenseForm.php">
+      <file leaf-file-name="saveJobTitleSuccess.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/web/js/saveJobTitleSuccess.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1962">
-              <caret line="109" column="44" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="44" />
+            <state relative-caret-position="234">
+              <caret line="13" column="72" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LicenseForm.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/lib/form/LicenseForm.php">
+      <file leaf-file-name="viewEmployeeListSuccess.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/templates/viewEmployeeListSuccess.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="33" column="35" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="messages.es_AR.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.es_AR.xml">
+      <file leaf-file-name="viewQualificationsSuccess.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/templates/viewQualificationsSuccess.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62928">
-              <caret line="3496" column="21" selection-start-line="3496" selection-start-column="16" selection-end-line="3496" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="freshorange.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/templates/freshorange.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="43" />
+            <state relative-caret-position="182">
+              <caret line="214" column="0" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -110,6 +300,13 @@
         <option value="$PROJECT_DIR$/symfony/apps/orangehrm/templates/layout.php" />
         <option value="$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.es_AR.xml" />
         <option value="$PROJECT_DIR$/symfony/apps/orangehrm/templates/freshorange.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/addCustomerSuccess.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/employmentStatusSuccess.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/jobCategorySuccess.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/listCustomerSuccess.php" />
+        <option value="$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.es_ES.xml" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/templates/viewEmployeeListSuccess.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/templates/viewQualificationsSuccess.php" />
       </list>
     </option>
   </component>
@@ -154,200 +351,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="orangehrm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orange" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webres_55a775cf9fcff8.50052456" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webres_55a775cf9fcff8.50052456" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="orangehrm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -428,18 +439,22 @@
       <workItem from="1469459637615" duration="2694000" />
       <workItem from="1469467429233" duration="14663000" />
       <workItem from="1469544973929" duration="5545000" />
-      <workItem from="1469559902654" duration="13000" />
+      <workItem from="1469559902654" duration="12889000" />
+      <workItem from="1469635517715" duration="14000" />
+      <workItem from="1469651357548" duration="131000" />
+      <workItem from="1469652015877" duration="57000" />
+      <workItem from="1469654341390" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37728000" />
+    <option name="totallyTimeSpent" value="50819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="30" width="1368" height="739" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25768667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26647145" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -470,107 +485,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/modules/auth/templates/loginSuccess.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1469482331014" expanded="true" signature="4740:4776" ph="..." />
-            <marker date="1469482331014" expanded="true" signature="4935:5033" ph="..." />
-            <marker date="1469482331014" expanded="true" signature="5295:5353" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/actions/viewQualificationsAction.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="96" column="53" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/modules/auth/templates/loginSuccess.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1314">
-          <caret line="73" column="59" selection-start-line="73" selection-start-column="59" selection-end-line="73" selection-end-column="59" />
-          <folding>
-            <marker date="1469482331014" expanded="true" signature="4740:4776" ph="..." />
-            <marker date="1469482331014" expanded="true" signature="4935:5033" ph="..." />
-            <marker date="1469482331014" expanded="true" signature="5295:5353" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/actions/viewQualificationsAction.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="96" column="53" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeLicenseForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1962">
-          <caret line="109" column="44" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/lib/form/LicenseForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.TXT">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="70" column="10" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/templates/layout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/lib/vendor/symfony/lib/helper/AssetHelper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5220">
-          <caret line="290" column="78" selection-start-line="290" selection-start-column="78" selection-end-line="290" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/modules/auth/templates/loginSuccess.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1469482331014" expanded="true" signature="4740:4776" ph="..." />
-            <marker date="1469482331014" expanded="true" signature="4935:5033" ph="..." />
-            <marker date="1469482331014" expanded="true" signature="5295:5353" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/lib/vendor/symfony/lib/form/sfForm.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19188">
-          <caret line="1066" column="78" selection-start-line="1066" selection-start-column="60" selection-end-line="1066" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/symfony/lib/vendor/symfony/lib/form/sfFormFieldSchema.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
@@ -757,7 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-90">
           <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,30 +701,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/modules/auth/templates/loginSuccess.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1314">
-          <caret line="73" column="59" selection-start-line="73" selection-start-column="59" selection-end-line="73" selection-end-column="59" />
-          <folding>
-            <marker date="1469482331014" expanded="true" signature="4740:4776" ph="..." />
-            <marker date="1469482331014" expanded="true" signature="4935:5033" ph="..." />
-            <marker date="1469482331014" expanded="true" signature="5295:5353" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/symfony/web/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/actions/viewQualificationsAction.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="96" column="53" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -816,34 +715,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeLicenseForm.php">
+    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/templates/freshorange.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1962">
-          <caret line="109" column="44" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="44" />
-          <folding />
+        <state relative-caret-position="198">
+          <caret line="39" column="48" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/lib/form/LicenseForm.php">
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/updateProjectSuccess.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="2214">
+          <caret line="123" column="72" selection-start-line="123" selection-start-column="72" selection-end-line="123" selection-end-column="72" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.es_AR.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62928">
+        <state relative-caret-position="18">
           <caret line="3496" column="21" selection-start-line="3496" selection-start-column="16" selection-end-line="3496" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/lib/form/LicenseForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="55" column="28" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeLicenseForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="109" column="44" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/actions/viewQualificationsAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="96" column="53" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/modules/auth/templates/loginSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="73" column="59" selection-start-line="73" selection-start-column="59" selection-end-line="73" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.bg_BG.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/indexSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/addCustomerSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/getActivitiesRelatedToAProjectAjaxSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/saveJobTitleSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-522">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/listCustomerSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="83" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/jobCategorySuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="30" column="67" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/employmentStatusSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="33" column="120" selection-start-line="33" selection-start-column="95" selection-end-line="33" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.es_ES.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80496">
+          <caret line="4472" column="27" selection-start-line="4472" selection-start-column="16" selection-end-line="4472" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/templates/freshorange.php">
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/web/js/saveJobTitleSuccess.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="43" />
+        <state relative-caret-position="234">
+          <caret line="13" column="72" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/templates/viewEmployeeListSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmPimPlugin/modules/pim/templates/viewQualificationsSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="214" column="0" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
           <folding />
         </state>
       </provider>

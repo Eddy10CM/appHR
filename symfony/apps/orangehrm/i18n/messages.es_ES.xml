@@ -3110,7 +3110,7 @@
       </trans-unit>
       <trans-unit id="777">
         <source>Save</source>
-        <target>Ahorrar</target>
+        <target>Guardar</target>
       </trans-unit>
       <trans-unit id="778">
         <source>Save Comment Only</source>

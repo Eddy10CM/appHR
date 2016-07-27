@@ -43,6 +43,11 @@ use_javascript(plugin_web_path('orangehrmAdminPlugin', 'js/jobCategorySuccess'))
                 <ol>
                     
                     <li>
+                        <?php
+                        /**
+                         * Es para el campo para agregar un nuevo trabajo
+                         * */
+                        ?>
                         <?php echo $form['name']->renderLabel(__('Name'). ' <em>*</em>'); ?>
                         <?php echo $form['name']->render(array("class" => "formInput", "maxlength" => 52)); ?>
                     </li>

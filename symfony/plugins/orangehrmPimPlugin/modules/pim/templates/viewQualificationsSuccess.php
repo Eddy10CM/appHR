@@ -17,7 +17,7 @@ $haveWorkExperience = count($workExperienceForm->workExperiences)>0;
 
 <div class="box pimPane">
 
-    <?php 
+    <?php
         $form = $workExperienceForm;
         echo include_component('pim', 'pimLeftMenu', array('empNumber'=>$empNumber, 'form' => $form));
     ?>
@@ -189,7 +189,7 @@ $haveWorkExperience = count($workExperienceForm->workExperiences)>0;
     
     <!-- this is education section -->
     <?php
-    include_partial('education', array('empNumber' => $empNumber, 'form' => $educationForm, 
+    include_partial('education', array('empNumber' => $empNumber, 'form' => $educationForm,
         'section' => $section, 'educationPermissions' => $educationPermissions,'listForm'=>$listForm));
     ?>
 
@@ -209,6 +209,10 @@ $haveWorkExperience = count($workExperienceForm->workExperiences)>0;
     <?php
     include_partial('license', array('empNumber' => $empNumber, 'form' => $licenseForm, 
         'section' => $section, 'licensePermissions' => $licensePermissions,'listForm'=>$listForm));
+    ?>
+
+    <?php
+
     ?>
     
     <?php echo include_component('pim', 'customFields', array('empNumber'=>$empNumber, 'screen' => CustomField::SCREEN_QUALIFICATIONS));?>
